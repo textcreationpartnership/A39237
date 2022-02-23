@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and thanks of Queen Elizabeth, of ever blessed memory, to her last Parliament after her delivery from the popish plots, &amp;c.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39237</idno>
+            <idno type="STC">Wing E530</idno>
+            <idno type="STC">ESTC R23291</idno>
+            <idno type="EEBO-CITATION">12495023</idno>
+            <idno type="OCLC">ocm 12495023</idno>
+            <idno type="VID">62481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and thanks of Queen Elizabeth, of ever blessed memory, to her last Parliament after her delivery from the popish plots, &amp;c.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62481:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:62481:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <p>The Laſt SPEECH AND THANKS OF Queen Elizabeth Of ever Bleſſed Memory, TO HER LAST PARLIAMENT, AFTER HER DELIVERY FROM THE Popiſh Plots, &amp;c.</p>
+            <p>
+               <hi>London,</hi> Printed, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:62481:2"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="1" facs="tcp:62481:2"/>
+            <!-- PDF PAGE 17 -->
+            <head>THE LAST SPEECH OF Queen ELIZABETH TO HER Laſt Parliament, Which began OCTOBER 20<hi rend="sup">th</hi> 1601.</head>
+            <p>THE Thirtieth of <hi>November</hi> Her Majeſty being ſeated under a Canopy of State in the Council Chamber, the <hi>Speaker,</hi> with about 180. of the Houſe of <hi>Commons</hi> preſented themſelves at Her Majeſties feet, for that ſo Graciouſly and Speedily She had heard and yielded to Her Subjects deſires, humbly kneeling upon their knees: To whom She ſpake in theſe Words.</p>
+            <sp>
+               <p>Mr. <hi>Speaker,</hi> We perceive, your coming is to preſent Thanks to Us; Know I accept them with no leſs Joy, than your Loves can have a deſire to offer ſuch a preſent; and do more eſteem it than any treaſure or riches. For the value of Them I know, but Loyalty, Love and Thanks I account unvaluable; and though God hath raiſed Me high, yet this I account the Glory of My Crown, that I have Reigned with your Loves. This makes Me that I do not ſo much rejoyce, that God hath made me a Queen, as to be a Queen of ſo thankful a people, and to be a means under God, to conſerve you in ſafety, and to preſerve you from danger; yea, to be an Inſtrument to preſerve you from diſhonour, ſhame and infamy; to keep you out of ſervitude and ſlavery under Our Enemies, and cruel tyranny and vile oppreſſion intended againſt Us. For the better withſtanding whereof, We take very acceptably your intended Supplies; and chiefly, that it manifeſteth your Love and Largeneſs of heart to your Sovereign. Of My Self I was never a greedy ſcraping graſper, nor ſtrict faſt-holding Prince, nor yet a Waſter. My heart was never ſet upon any worldly goods; but what you beſtow on Me, I will not hoard it up, but receive it, to beſtow on you again. Yea, my own pro<g ref="char:EOLhyphen"/>perties I account yours, to be expended for your good, and your Eyes ſhall ſee the beſtowing of it for your welfare.</p>
+               <p>Mr. <hi>Speaker,</hi> I wiſh you and the reſt of the Gentlemen to ſtand up, for I fear I ſhall yet trouble you with a longer Speech.</p>
+               <p>
+                  <pb n="2" facs="tcp:62481:3"/>
+                  <!-- PDF PAGE 18 -->
+Mr. <hi>Speaker,</hi> You give Me thanks, but I am more to thank you, and I charge you thank them of the Lower Houſe from Me; for had I not received knowledge from you, I might have fallen into the lapſe of an errour, only for want of true Information. Since I was a Queen, I never yet put my Pen to any Grant, but upon pretext and ſemblance made, that it was for the good and avail of My Sub<g ref="char:EOLunhyphen"/>jects in General, though a private profit to ſome of my antient ſervants, who have deſerved well. But that any Grant of Mine, ſhall be made grievous to My people, and oppreſſion to be priviledg'd under the Colour of Our Patents, Our Princely Dignity ſhall not ſuffer it. When I heard it, I could give no reſt to My thoughts; and thoſe Varlets, lewd perſons, abuſers of My Bounty ſhall know, I will not ſuffer it. And Mr. <hi>Speaker,</hi> Tell the Houſe from Me, That I take it exceeding grateful, that the knowledge of theſe are come unto Me from them: and though amongſt them the principal members are ſuch as are not touched in private, and therefore ſpeak not from any feeling of the grief, yet We have heard, That other Gentlemen alſo of the Houſe who ſtand as free, have ſpoken as freely in it. Which gives Us to know, that no reſpects of Intereſts have moved them, otherwiſe than what they bear to ſuffer the diminution of Our Honor, and Our Subjects Love to Us. The Zeal of which affection tending to eaſe My people and knit their hearts to Us, I embrace with a Princely care; for above all other treaſures, I eſteem My peoples love, more than which, I deſire not to merit: and God that gave me to ſit, and placed Me over you, knows, That I never reſpected My, but as your good was concerned in Me. Yea, What dangers! What perils! What practices I have paſt, ſome if not all of you know; but none of thoſe things ever moved me, or made me fear, but it's God that hath delivered Me.</p>
+               <p>And in Governing this Land, I have ever ſet the laſt Judgement day before My eyes, and ſo to rule, as I ſhall be judged and anſwer before a higher Judge, to whoſe Judgement Seat I do appeal, That never thought was cheriſhed in My heart, that tended not to My peoples good. And if My Princely Bounty hath been abuſed, and my Grace turned to the Hurt of My people contrary to My Will and Meaning, or if any Authority under Me have neglected, or converted what I committed to them from My deſign, I hope God will not lay their Culp upon My charge.</p>
+               <p>To be a King, and wear a Crown, is a thing more Glorious to them that ſee it, than it is pleaſant to them that bear it. For My Self, I was never ſo much inticed with the Glorious Name of a King, or the Royal Authority of a Queen, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> delighted, that God made me his Inſtrument to maintain his Truth and Glory, and defend this Kingdom from diſhonor, damage, Tyranny and oppreſſion.</p>
+               <p>But ſhould I aſcribe theſe things to My Self or to My Sexly weakneſs, I were not worthy to live; and of all moſt unworthy of the Mercies I have received at Gods hands: But to God alone, and to him wholly is all given and aſcribed.</p>
+               <p>The Cares and troubles of a Crown, I cannot more fitly reſemble, than to the Druggs of an Apothecary perfumed with ſome Aromatical ſavour, or bitter Pills gilded over, by which they are made acceptable or leſs offenſive, when indeed they are bitter and unpleaſant. As for My own part, were it not for Conſcience ſake to diſcharge the duty God hath laid upon Me, and to maintain his Glory, and keep you in ſafety, in my diſpoſition I ſhould be willing to Reſign that place I hold to any other, and be glad to be freed of the Glory with the labour. For it is not My deſire to Live and Reign longer, than My Life and Reign ſhall be for your good; and though you have had, and may have Mightier and Wiſer Princes ſitting on this Seat, yet you never had, nor ſhall have any that will love you better.</p>
+               <p>Thus Mr. <hi>Speaker,</hi> I commend Me to your Loyal Loves, and yours to My beſt Care and your further Counſels. And I pray you Mr. <hi>Controller</hi> and Mr. <hi>Secretary,</hi> and you of My Council, that before theſe Gentlemen depart into the Countrey, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bring them all to Kiſs My Hand.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62481:3"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
